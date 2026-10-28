@@ -4,7 +4,7 @@ Proyecto hecho en colab
 ## Solución interfaz carrito
 Bibliotecas utilizadas: *pandas* y *ipywidgets*
 
-El archivo está divido en 5 celdas. 
+El archivo está divido en **5 celdas**. 
 
  Celda 1. Base de datos de productos
  Celda 2. Funciones básicas del carrito
