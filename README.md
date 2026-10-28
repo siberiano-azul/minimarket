@@ -24,7 +24,7 @@ def buscar_productos(inventario, texto, categoria):
         inventario = inventario[inventario['categoria'] == categoria]
 
     return inventario
- `
+
  [Colab](https://colab.research.google.com/drive/1CTkl2UfKUM98G_SHy6SkqeCkH0WVE3st)
  
 
